@@ -24,7 +24,7 @@
 </p>
 
 
-<h1 align="center">💻 Tech Stack</h2>
+<h2 align="center">💻 Tech Stack</h2>
 
 <h3 align="center">🧠 Languages</h3>
 <p align="center">
