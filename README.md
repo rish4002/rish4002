@@ -28,7 +28,7 @@
 
 <h3 align="center">🧠 Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js" />
 </p>
 
 <h3 align="center">🎨 Frontend</h3>
